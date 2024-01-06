@@ -408,7 +408,7 @@ nav ul li a:hover::after{
 /* Mobile devices (up to 767px) */
 @media only screen and (max-width: 600px) {
     #header{
-        background-image: url(/images/cover\ for\ android.png);
+        background-image: url(images/cover\ for\ android.png);
     }
 
     .header-text{
